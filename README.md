@@ -1,11 +1,13 @@
-﻿# CS50 Final Project
+﻿# Digital lending library
+ #### Video Demo:  <
+#### Description:
 Hello,my name is Tasos Fasoulis, I live in Athens, Greece and this is my submission to the CS50 2021 final project. 
 My project is called digital library and it is a web application where the users have the ability to donate a book to a library and also rent a book that another user has donated. It works like a lending library, but in digital format.
 
-# Features
+#### Features
 In order to implement this application I used python, SQL, flask, html and css.
 
-# Description of files
+#### Description of files
 
  - application.py: a python script which runs the whole web application.
  - helpers.py: a python script with functions for apology messages and login (derived from CS50 finance project)
@@ -29,7 +31,7 @@ In order to implement this application I used python, SQL, flask, html and css.
 	 - return_book.html: the script that creates the page where the user can return a book which has already rented.
 	 - history.html: the script that creates the page where the user can see all the actions that he/she has made.
 	
-# Application description
+#### Descritpion of application
 First, the uses should register for the web page, by giving a username and a password, which must be at least 6 characters long. Then, the user can log in and navigate to the web page. The actions that the users can make are:
  - donate a book to the library.
  - rent a book from the library for a specific period.
@@ -37,8 +39,11 @@ First, the uses should register for the web page, by giving a username and a pas
  - see a history of their actions.
  Each page of the application is described analytically below.
 
-# Registed and Log in
+#### Registed and Log in
 In the register page, the user is asked to give a username and a passwword, which must also be confirmed by th user.
 	 
 ![register](https://github.com/tasosfas/test/blob/main/Register.JPG)
+
+Then, the user should log in usings his/hers credentials.
+|[log in]
 
