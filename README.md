@@ -50,7 +50,7 @@
 ![index](https://github.com/tasosfas/test/blob/main/index.JPG)
 
  #### Donate a book
- In this page, the user can donate a book to the library. The user should specify the name of the book and the quantity he/she wants to donate (in case someone wants to donate more than one copy of the same book). After the donation has been done successfully, the user is redictered to the index page.
+ In this page, the user can donate a book to the library. The user should specify the title of the book and the quantity he/she wants to donate (in case someone wants to donate more than one copy of the same book). After the donation has been done successfully, the user is redictered to the index page.
 ![donate](https://github.com/tasosfas/test/blob/main/donate.JPG)
 
  #### Rent a book
@@ -63,7 +63,7 @@
  
  #### History
  In this page the user can all the actions of his/hers account. This page includes these tables
- - Rents: The books that the user currently holds. The table shows the name of the book, the date that has been rented, the number of days that the book has been rented and the date that the user must return the book.
- - Donations: The books that the user has donated to the library. The table shows the name of the book, the quantity and the date of the donation
- - Returns: The books that the user has returned to the library. The table shows the name of the book and the date that it was returned.
+ - Rents: The books that the user currently holds. The table shows the title of the book, the date that has been rented, the number of days that the book has been rented and the date that the user must return the book.
+ - Donations: The books that the user has donated to the library. The table shows the title of the book, the quantity and the date of the donation
+ - Returns: The books that the user has returned to the library. The table shows the title of the book and the date that it was returned.
  ![history](https://github.com/tasosfas/test/blob/main/history.JPG)
