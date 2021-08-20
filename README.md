@@ -63,7 +63,7 @@
  
  #### History
  In this page the user can all the actions of his/hers account. This page includes these tables
- - Rents: The books that the user currently holds. The table shows the name of the book, the date that has been rented and the date tha the user must return the book.
+ - Rents: The books that the user currently holds. The table shows the name of the book, the date that has been rented, the number of days that the book has been rented and the date that the user must return the book.
  - Donations: The books that the user has donated to the library. The table shows the name of the book, the quantity and the date of the donation
  - Returns: The books that the user has returned to the library. The table shows the name of the book and the date that it was returned.
  ![history](https://github.com/tasosfas/test/blob/main/history.JPG)
