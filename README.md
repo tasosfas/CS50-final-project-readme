@@ -2,9 +2,9 @@
  #### Video Demo:  <
  #### Introduction
  Hello, World! my name is Tasos Fasoulis, I live in Athens, Greece and this is my submission to the CS50 2021 final project. 
- My project is called Digital Lending Library and it is a web application where the users have the ability to donate a book to a library and also rent a book that another user has donated. It works like a lending library, but in digital format.
+ My project is called Digital Lending Library and it is a web application where the users have the ability to donate a book to a library and also rent a book that another user has donated. It works like a lending library, but in digital format. The idea is to create a place where all the book lovers can share their books and also read books they find interesting. Since we live in the COVID-19 era (this project was submitted in Summer 2021) it would be better if this library was created in a digital form. Of course, the users should donate books they own legally, and do not violate any copyright law.
 
- #### Features
+ #### Languages used
  In order to implement this application I used these programming languages: Python, SQL, Flask, HTML and CSS.
 
  #### Description of files
@@ -39,18 +39,18 @@
  Each page of the application is described analytically below.
 
  #### Register and Log in
- In the register page, the user is asked to give a username and a passwword, which the user must confirm in order to succesfully register to the application.
+ In the register page, the user is asked to give a username and a password, which the user must confirm in order to successfully register to the application.
 ![register](https://github.com/tasosfas/test/blob/main/Register.JPG)
 
  Then, the user should log in using his/hers credentials.
 ![log in](https://github.com/tasosfas/test/blob/main/login.JPG)
 
  #### Index page
- After the user has loged in, he/she will be redictered to the index page, where the user is welcomed to the library and he/she can see a shortly description about the actions that are available in this web application.
+ After the user has logged in, he/she will be redirected to the index page, where the user is welcomed to the library and he/she can see a shortly description about the actions that are available in this web application.
 ![index](https://github.com/tasosfas/test/blob/main/index.JPG)
 
  #### Donate a book
- In this page, the user can donate a book to the library. The user should specify the title of the book and the quantity he/she wants to donate (in case someone wants to donate more than one copy of the same book). After the donation has been done successfully, the user is redictered to the index page.
+ In this page, the user can donate a book to the library. The user should specify the title of the book and the quantity he/she wants to donate (in case someone wants to donate more than one copy of the same book). After the donation has been done successfully, the user is redirected to the index page.
 ![donate](https://github.com/tasosfas/test/blob/main/donate.JPG)
 
  #### Rent a book
@@ -58,7 +58,7 @@
  ![rent](https://github.com/tasosfas/test/blob/main/rent.JPG)
  
  #### Return a book
- In this page the user can return a book which has previously rented, so this book will become again available for renting by the other users. In the form, the user enters the title of the book he/she wants to return. If the user types a book that he/she has not rented previously, he/she will see an error message. After the return has been done succesffully the user is redirected to the index page.
+ In this page the user can return a book which has previously rented, so this book will become again available for renting by the other users. In the form, the user enters the title of the book he/she wants to return. If the user types a book that he/she has not rented previously, he/she will see an error message. After the return has been done successfully the user is redirected to the index page.
  ![return](https://github.com/tasosfas/test/blob/main/return.JPG)
  
  #### History
