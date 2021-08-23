@@ -2,7 +2,8 @@
  #### Video Demo:  <
  #### Introduction
  Hello, World! My name is Tasos Fasoulis, I live in Athens, Greece and this is my submission to the CS50 2021 final project. 
- My project is called Digital Lending Library and it is a web application where the users have the ability to donate a book to a library and also rent a book that another user has donated. It works like a lending library, but in digital format. The idea is to create a place where all the book lovers can share their books and also find interesting books they have not read yet. Since we live in the COVID-19 era (this project was submitted in summer 2021) it would be better if this library was created in a digital form, so as to prevent overcrowding. Of course, the users should donate books they own legally, and do not violate any copyright law. Let's see in detail how this application was created and how it works.
+ My project is called Digital Lending Library and it is a web application where the users have the ability to donate a book to a library and also rent a book they want to read for a specific period. It works like a lending library, but in digital format. The idea is to create a place where all the book lovers can share their books and also find interesting books they have not read yet. Since we live in the COVID-19 era (this project was submitted in summer 2021) it would be better if this library was created in a digital form, so as to prevent overcrowding. Of course, the users should donate books they own legally, and do not violate any copyright law.
+ Let's see in detail how this application was created and how it works.
 
  #### Languages used
  In order to implement this application I used these programming languages: Python, SQL, HTML and CSS.
@@ -31,7 +32,7 @@
 	 - history.html: the script that creates the page where the user can see all the actions that he/she has made.
 	
  #### Description of application
- First, the user should register for the web page, by giving a username and a password, which must be at least 6 characters long. Then, the user can log in and navigate to the web application. In the application, the user can donate a book he/she owns to the library, or rent a book for a specific number of days. The user must also return any book he/she has rented back to the library. Finally, the user can also see a history of his/hers account, which contains all the actions that the user has made.
+ First, the user should register for the web page, by giving a username and a password, which must be at least 6 characters long. Then, the user can log in and navigate to the web application. In the application, the user can donate a book he/she owns to the library and rent a book for a specific number of days. The user must also return any book he/she has rented back to the library. Furthermore, the user can also see a history of his/hers account, which contains all the actions that the user has made. Finally, the user can log out of the application, in order to terminate the current session.
  Each page of the application is described analytically below.
 
  #### Register and Log in
@@ -46,7 +47,7 @@
 ![index](https://github.com/tasosfas/test/blob/main/index.JPG)
 
  #### Donate a book
- In this page, the user can donate a book to the library. The user should specify the title of the book and the quantity he/she wants to donate (in case someone wants to donate more than one copy of the same book). After the donation has been done successfully, the user is redirected to the index page.
+  In this page, the user can donate a book to the library. The user should specify the title of the book and the quantity he/she wants to donate (in case someone wants to donate more than one copy of the same book). After the donation has been done successfully, the user is redirected to the index page.
 ![donate](https://github.com/tasosfas/test/blob/main/donate.JPG)
 
  #### Rent a book
