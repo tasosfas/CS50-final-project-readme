@@ -1,5 +1,5 @@
 # Digital Lending Library
- #### Video Demo:https://youtu.be/wl9iiOQADao
+ #### Video Demo: https://youtu.be/wl9iiOQADao
  #### Introduction
  Hello, World! My name is Tasos Fasoulis, I live in Athens, Greece and this is my submission to the CS50 2021 final project. 
  My project is called Digital Lending Library and it is a web application where the users have the ability to donate a book to a library and also rent from it a book they want to read for a specific period. It works like a lending library, but in digital format. The idea is to create a place where all the book lovers can share their books and also find interesting books they have not read yet. Since we live in the COVID-19 era (this project was submitted in summer 2021) it would be better if this library was created in a digital form, so as to prevent overcrowding. Of course, the users should donate books they own legally, and do not violate any copyright law.
